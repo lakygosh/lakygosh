@@ -44,7 +44,7 @@ The same system builds both Pamti and the Promobet platform, on a TypeScript mon
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**MonX website**](https://github.com/lakygosh/monx-website) | Bilingual marketing site for MonX, with a demo-booking flow | Next.js, Tailwind, Framer Motion |
+| [**MonX website**](https://github.com/lakygosh/monx-website) | Bilingual marketing site for MonX, with a demo-booking flow · [live](https://mon-x.app) | Next.js, Tailwind, Framer Motion |
 | [**Rehabilitation game**](https://github.com/lakygosh/Hill_Climb_unity) | Game for children with cerebral palsy, controlled by a biofeedback muscle sensor. Built in a team of two and used in physiotherapy at 2 clinics in Belgrade | Unity, C# |
 | [**Achievables**](https://github.com/lakygosh/NFTMarketplace) | Proof of concept for verified badges for skills you can't show with a diploma, issued as NFTs. Presented at the Mathematical Institute of the Serbian Academy of Sciences and Arts | Solidity, React, IPFS |
 | [**Svesnote**](https://github.com/lakygosh/svesnote) | Voice journal: record daily entries, sync them to the cloud, browse them on a calendar | Flutter, Supabase |
